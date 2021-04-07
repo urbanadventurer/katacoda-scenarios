@@ -1,0 +1,26 @@
+{
+    "type": "challenge@0.6",
+    "title": "Skills Challenge Scenario Template",
+    "description": "'Hello, world!' template for a skills challenge scenario.",
+    "difficulty": "Beginner",
+    "time": "5 minutes",
+    "details": {
+        "intro": {
+            "text": "intro.md",
+            "background": "background.sh",
+            "foreground": "foreground.sh"
+        },
+        "assets": {
+          "client": [
+              {"file": "challenge.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+          ]
+        }
+    },
+    "environment": {
+        "hidesidebar": true,
+        "uilayout": "vscode-terminal-split"
+    },
+    "backend": {
+        "imageid": "ubuntu:2004"
+    }
+}
