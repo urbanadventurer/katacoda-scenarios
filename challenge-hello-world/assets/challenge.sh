@@ -16,6 +16,8 @@
 # https://www.katacoda.community/challenges.html#challenge-api
 #
 
+pwd
+
 # This function, defined by you, is where we specify everything. (With great power…)
 function kc_start_tasks()
 {
@@ -32,6 +34,12 @@ function kc_start_tasks()
   #
   # Here is our first kc_task, with only three parameters (no hint):
   #
+  kc_task \
+      "Task 0: This is just a test to find out in what directory the test command is executing. The answer is:" \
+      "Ran pwd" \
+      "pwd"
+      
+  # The first task
   kc_task \
       "Task 1: Create a new file called bananas.txt! (Psst, in case you're new to the command line, I'm just going to tell you the answer! I don't normally do this, oh I'm so nervous. OK just try typing 'touch bananas.txt' and then hit enter.)" \
       "Fantastic! I can see your bananas.txt." \

@@ -14,6 +14,9 @@
 # confirmation that the foreground.sh is running as expected.
 echo "Foreground script executed!"
 
+var_path=$PWD  
+echo $var_path
+
 # The following line checks for the presence of a file created by background.sh.
 # When the file is present, we know the environment is configured and ready to go.
 while [ ! -f /usr/local/bin/wait.sh ]; do sleep 1; done; sleep 1;  /usr/local/bin/wait.sh; /usr/local/bin/start.sh
