@@ -19,6 +19,7 @@ This folder is a "Hello, world!" example of a skills challenge scenario.  The sc
 
 **challenge.sh** --- Must be in the scenario folder's `/assets/` subfolder. This is the place for bash scripts using the Challenges API, and is where you define all of the tasks, text, tests, and (optionally) hints.
 
+**SOLUTIONS.md** --- For each task, please provide instructions for the solution. This is NOT shared with the learner, but is for our internal reference, to help test the scenario.
 
 
 _Please reach out with feedback and questions about this example! And thank you for reading the directions._ ♥️
