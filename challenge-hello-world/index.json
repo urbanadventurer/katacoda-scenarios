@@ -26,7 +26,7 @@
         }
     },
     "environment": {
-        "uilayout": "terminal-split"
+        "uilayout": "editor-terminal"
     },
     "backend": {
         "imageid": "ubuntu:2004"
