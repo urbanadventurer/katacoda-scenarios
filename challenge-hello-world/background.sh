@@ -11,6 +11,3 @@
 ### Your config commands here ###
 
 
-
-# The following line writes a file, indicating the environment is configured and ready.
-echo 'done' > /opt/katacoda-background-finished
