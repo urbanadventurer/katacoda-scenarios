@@ -10,11 +10,6 @@
             "background": "background.sh",
             "foreground": "foreground.sh"
         },
-        "assets": {
-          "client": [
-              {"file": "*", "target": "/root/"}
-          ]
-      },
       "steps": [
         {
           "title": "Task 1 - Bananas",
