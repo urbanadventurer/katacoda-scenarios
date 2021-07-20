@@ -1,0 +1,1 @@
+Task 1: Create a new file called bananas.txt! (Psst, in case you're new to the command line, I'm just going to tell you the answer! I don't normally do this, oh I'm so nervous. OK just try typing 'touch bananas.txt' and then hit enter.)

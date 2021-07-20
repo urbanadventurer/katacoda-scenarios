@@ -1,0 +1,1 @@
+In case you're wondering why this is here, it's to demonstrate how assets are copied over into the scenario.

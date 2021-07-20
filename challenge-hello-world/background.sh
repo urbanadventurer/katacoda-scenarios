@@ -5,8 +5,6 @@
 # will execute in the, er, background and will not not echo output to the terminal.
 # (It's sneaky like that!) 
 #
-# See docs: https://www.katacoda.community/challenges.html#configuring-scenario-as-a-challenge
-#
 
 
 
