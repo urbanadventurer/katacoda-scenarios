@@ -24,6 +24,11 @@
         },
         "finish": {
             "text": "finish.md"
+        },
+        "assets": {
+            "client": [
+                { "file": "*", "target": "~/" }
+            ]
         }
     },
     "environment": {
