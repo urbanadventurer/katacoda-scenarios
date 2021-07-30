@@ -4,13 +4,14 @@
 
 seconds_sofar=$1
 
-echo "Debug Hint Task 2: $seconds_sofar"
+# echo "Debug Hint Task 2: $seconds_sofar"
 
-if [[ $seconds_sofar -ge 5 &&  $seconds_sofar -lt 10 ]]; then
-  echo "Keep going, a hint will be shown soon..."
+# This hint message will appear between 10-20 seconds elapsed after the task began
+if [[ $seconds_sofar -ge 10 &&  $seconds_sofar -lt 20 ]]; then
+  echo "Still working on it? I'll show a hint very soon..."
 fi
 
-
-if [ $seconds_sofar -ge 10 ]; then
-  echo "Hint: This could give you a clue that could help nudge you toward the solution."
+# This hint message will appear 20+ seconds elapsed after the task began
+if [ $seconds_sofar -ge 20 ]; then
+  echo "**Hint:** This hint could nudge you toward the solution."
 fi
