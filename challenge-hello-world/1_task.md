@@ -1,1 +1,1 @@
-**Task 1:** Create a new file called `bananas.txt`.
+Create a new file called `bananas.txt`.
