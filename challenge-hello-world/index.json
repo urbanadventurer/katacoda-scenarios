@@ -1,7 +1,7 @@
 {
     "type": "challenge@0.7",
-    "title": "Skills Challenge Scenario Template",
-    "description": "'Hello, world!' template for a skills challenge scenario.",
+    "title": "Skills Challenge Template",
+    "description": "Basic template for a skills challenge",
     "difficulty": "Beginner",
     "time": "5 minutes",
     "details": {
