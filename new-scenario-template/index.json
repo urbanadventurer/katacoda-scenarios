@@ -11,16 +11,16 @@
       },
       {
         "title": "Step 2",
-        "text": "step1.md"
+        "text": "step2.md"
       },
       {
         "title": "Step 3",
-        "text": "step1.md"
+        "text": "step3.md"
       }
     ],
     "intro": {
       "text": "intro.md",
-      "background": "background.sh"
+      "code": "foreground.sh"
     },
     "finish": {
       "text": "finish.md"
