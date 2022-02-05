@@ -24,17 +24,14 @@
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-      "host01": [
-          {"file": "bitcoin.conf", "target": "/root", "chmod": "+x"},
-          {"file": "btc_init", "target": "/root", "chmod": "+x"},
-          {"file": "Dockerfile", "target": "/root", "chmod": "+x"},
+  },
+  "assets": {
+      "client": [
           { "file": "*", "target": "~/" }
       ]
-    }
-  },
-  "environment": {
+  }
+},
+"environment": {
     "uilayout": "terminal"
   },
   "backend": {
