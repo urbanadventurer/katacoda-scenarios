@@ -1,8 +1,8 @@
 {
-  "title": "THIS IS SPARTA",
-  "description": "this is for silly people who need to learn cloud content on the job stat.",
-  "difficulty": "Supeer Advnacnencen",
-  "time": "5 minutes",
+  "title": "Crypto DevOps Skills",
+  "description": "Access a Bitcoin JSON-RPC interface with curl.",
+  "difficulty": "Beginner",
+  "time": "15 minutes",
   "details": {
     "steps": [
       {
@@ -24,14 +24,15 @@
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-        "client": [
-            { "file": "*", "target": "~/" }
-        ]
-    }
   },
-  "environment": {
+  "assets": {
+      "client": [
+          { "file": "*", "target": "~/" },
+          { "file": "*", "target": "/root" }
+      ]
+  }
+},
+"environment": {
     "uilayout": "terminal"
   },
   "backend": {
