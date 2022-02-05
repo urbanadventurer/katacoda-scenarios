@@ -5,16 +5,20 @@
   "difficulty": "Beginner",
   "time": "5 minutes",
   "details": {
-      "steps": [
-          {
-              "title": "Task 1 - Bananas"
-              
-          },
-          {
-              "title": "Task 2 - Apples"
-           
-          }
-      ],
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3",
+        "text": "step3.md"
+      }
+    ],
       "intro": {
           "text": "intro.md"
       },
