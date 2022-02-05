@@ -1,10 +1,10 @@
-# Heading for Step 1
+# The JSON-RPC API
 
-This is some text.
+A Bitcoin node is running and the JSON-RPC API is accessible.
 
-Port 8332 is the JSON-RPC API.
+The Docker contain is exposing the port on 127.0.0.1:8332.
 
-You can reach it using curl
+You can verify this byusing curl.
 
 `curl http://127.0.0.1:8332`
 {{execute}}
