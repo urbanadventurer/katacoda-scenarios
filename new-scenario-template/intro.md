@@ -1,8 +1,10 @@
-# New Scenario Template (Your Title Here)
+# Crypto Skills
 
-This is a mostly empty template. To create your own first scenario, duplicate this in your own repo, then modify it as needed.
+Crypto DevOps challenges
 
 ## Description
+
+This covers accessing the JSON-RPC interface of a Bitcoin node from the commandline using curl.
 
 2-3 sentences on what the scenario covers, illustrates, and teaches. What technology is used, and what task will the learner have accomplished by the end?
 
