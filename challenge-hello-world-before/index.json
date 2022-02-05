@@ -1,9 +1,9 @@
 {
     "type": "challenge@0.7",
-    "title": "Crypto DevOps Skills",
-    "description": "Access a Bitcoin JSON-RPC interface with curl.",
+    "title": "Skills Challenge Template",
+    "description": "Basic template for a skills challenge",
     "difficulty": "Beginner",
-    "time": "15 minutes",
+    "time": "5 minutes",
     "details": {
         "steps": [
             {
@@ -39,4 +39,3 @@
         "imageid": "ubuntu:2004"
     }
 }
-
