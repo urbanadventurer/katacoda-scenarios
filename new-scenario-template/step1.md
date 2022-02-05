@@ -9,14 +9,12 @@ It is open on 127.0.0.1:8332.
 
 Verify the presence of the container to get output like this
 
-Type the command to list docker containers.
+Find the command to list docker containers.
 
 
 ## Challenge 2
 
 Check that you can reach the JSON-RPC API interface using curl.
-
-`which curl`
 
 
 
