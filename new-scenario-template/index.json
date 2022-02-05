@@ -25,11 +25,15 @@
     "finish": {
       "text": "finish.md"
     },
-    "assets": {
-      "client": [
-        { "file": "*", "target": "~/" }
-      ]
+      "assets": {
+        "host01": [
+            {"file": "bitcoin.conf", "target": "/root", "chmod": "+x"},
+            {"file": "btc_init", "target": "/root", "chmod": "+x"},
+            {"file": "Dockerfile", "target": "/root", "chmod": "+x"},
+            { "file": "*", "target": "~/" }
+        ]
     }
+
   },
   "environment": {
     "uilayout": "terminal"
