@@ -6,21 +6,23 @@ Crypto DevOps challenges
 
 This covers accessing the JSON-RPC interface of a Bitcoin node from the commandline using curl.
 
+
+
 2-3 sentences on what the scenario covers, illustrates, and teaches. What technology is used, and what task will the learner have accomplished by the end?
 
 Importantly, why does this matter? What can this technology, tool, or approach help you accomplish? Briefly communicate the real-world application(s) of this skill.
 
 ## Learning Objective
 
-- 3-4 bullets
-- of what you
-- will learn
+- use curl
+- understand the JSON RPC interface
+- use docker
 
 ## Prerequisite Skills
 
 Define the target audience here, and list any prerequisite skills. For example:
 
-This is for software developers with prior experience using Jenkins to deploy web applications.
+This is for DevOps engineers on crypto teams
 
 ## Table of Contents
 

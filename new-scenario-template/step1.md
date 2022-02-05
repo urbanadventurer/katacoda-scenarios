@@ -2,15 +2,10 @@
 
 This is some text.
 
-Here's a single line of runnable code:
+Port 8332 is the JSON-RPC API.
 
-`docker volume create --name=bitcoind-data`
-`docker run -v bitcoind-data:/bitcoin/.bitcoin --name=bitcoind-node -d \
-     -p 8333:8333 \
-     -p 127.0.0.1:8332:8332 \
-     kylemanna/bitcoind`
+You can reach it using curl
 
-
-
-`printf 'Hello, world!\n\n'`{{execute}}
+`curl http://127.0.0.1:8332`
+{{execute}}
 
