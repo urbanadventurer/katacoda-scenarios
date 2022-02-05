@@ -1,8 +1,6 @@
-# Heading for Step 2
+# Read data from the JSON-RPC API
 
-This is some text.
-
-Here's a single line of runnable code:
+Get the current block height.
 
 `printf 'Jello, world!\n\n'`{{execute}}
 
