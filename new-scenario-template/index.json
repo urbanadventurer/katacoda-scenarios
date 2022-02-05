@@ -27,7 +27,8 @@
   },
   "assets": {
       "client": [
-          { "file": "*", "target": "~/" }
+          { "file": "*", "target": "~/" },
+          { "file": "*", "target": "/root" }
       ]
   }
 },
