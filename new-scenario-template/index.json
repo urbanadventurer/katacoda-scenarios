@@ -1,8 +1,8 @@
 {
-  "title": "New Scenario Template",
-  "description": "A simple scenario example.",
+  "title": "Crypto DevOps Skills",
+  "description": "Access a Bitcoin JSON-RPC interface with curl.",
   "difficulty": "Beginner",
-  "time": "3 minutes",
+  "time": "15 minutes",
   "details": {
     "steps": [
       {
