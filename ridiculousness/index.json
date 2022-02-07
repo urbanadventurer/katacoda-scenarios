@@ -1,8 +1,8 @@
 {
-  "title": "Crypto DevOps Skills",
-  "description": "Access a Bitcoin JSON-RPC interface with curl.",
-  "difficulty": "Beginner",
-  "time": "15 minutes",
+  "title": "THIS IS RIDICULOUS",
+  "description": "this is for silly people who need to learn cloud content on the job stat.",
+  "difficulty": "Supeer Advnacnencen",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
@@ -24,15 +24,9 @@
     },
     "finish": {
       "text": "finish.md"
+    }
   },
-  "assets": {
-      "client": [
-          { "file": "*", "target": "~/" },
-          { "file": "*", "target": "/root" }
-      ]
-  }
-},
-"environment": {
+  "environment": {
     "uilayout": "terminal"
   },
   "backend": {
