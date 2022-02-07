@@ -21,15 +21,21 @@
             },
             {
                 "title": "Step 1",
-                "text": "step1.md"
+                "text": "step1.md",
+                "verify": "2_verify.sh",
+                "hint": "2_hint.sh"
               },
               {
                 "title": "Step 2",
-                "text": "step2.md"
+                "text": "step2.md",
+                "verify": "2_verify.sh",
+                "hint": "2_hint.sh"
               },
               {
                 "title": "Step 3",
-                "text": "step3.md"
+                "text": "step3.md",
+                "verify": "2_verify.sh",
+                "hint": "2_hint.sh"
               }
         ],
         "intro": {
